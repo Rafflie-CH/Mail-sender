@@ -16,6 +16,7 @@ module.exports = async (req, res) => {
     'emailsender@rafzhost.xyz': 'rafzhostxyz1',
     'anonymous@rafzhost.xyz': 'rafzhostxyz2',
     'rafzmailer@rafzhost.xyz': 'rafzhostxyz3',
+    'rafflieaditya123@gmail.com': 'sungaitabuk',
     // Pastikan untuk menambahkan semua 10 akun anonim dan passwordnya di sini
   };
 
